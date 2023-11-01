@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./python-code-challenge-superheroes/code-challenge/app"
+    ]
+}
